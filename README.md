@@ -13,7 +13,7 @@
 - 👯 Looking to collaborate on **open-source ML projects**
 - 🤔 Seeking help with **deep learning frameworks**
 - 💬 Ask me about anything related to ML and Data Science
-- 📫 How to reach me: [rahulsen@example.com](mailto:senr42284@gmail.com@example.com) or [LinkedIn](https://www.linkedin.com/in/rahul-sen-706bb3221/)
+- 📫 How to reach me: [mail](mailto:senr42284@gmail.com) or [LinkedIn](https://www.linkedin.com/in/rahul-sen-706bb3221/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing chess and solving puzzles in my free time
 
