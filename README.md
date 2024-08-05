@@ -29,7 +29,7 @@
 
 - **[Fake News Detector](https://github.com/rahulsen2002/project1](https://github.com/rahulsen2002/project-new)**: A machine learning project to detect fake news using a Random Forest classifier
 - **[Chatbot](https://github.com/rahulsen2002/project2](https://github.com/rahulsen2002/gfg-chatbot)**: A simple rule-based chatbot built using Natural Language Processing (NLP) techniques. This chatbot can handle predefined responses based on user input and provides a basic interaction experience.
-- **[Phishing url detector]([https://github.com/rahulsen2002/project3](https://github.com/rahulsen2002/phishing-project))**: A machine learning project to detect phishing URLs using an ensemble model.
+- **[Phishing url detector](https://github.com/rahulsen2002/project3](https://github.com/rahulsen2002/phishing-project)**: A machine learning project to detect phishing URLs using an ensemble model.
 
 ### 📈 GitHub Stats
 
